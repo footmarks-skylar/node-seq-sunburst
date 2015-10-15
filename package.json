@@ -1,0 +1,13 @@
+{
+  "name": "seq-sunburst",
+  "private": false,
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "2.3.x",
+    "express": "3.4.x"
+  },
+  "author": "Skylar <skylar@footmarks.com>",
+  "license": "ISC"
+}
